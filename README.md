@@ -2,7 +2,7 @@
 
 </br>
 
-Nesse projeto usando IaC, foi desenvolvida uma infraestrutura de Cluster Swarm local, utilizando utilizando máquinas virtuais e o Vagrant.</br>
+Nesse projeto usando IaC, foi desenvolvida uma infraestrutura de Cluster Swarm local, utilizando máquinas virtuais e o Vagrant.</br>
 Projetado para a comprovação dos conhecimentos aprendidos durante o módulo Desmistificando o Docker, do Bootcamp Cloud DevOps Experience - Banco Carrefour da [Dio](https://web.dio.me).
 
 </br>
