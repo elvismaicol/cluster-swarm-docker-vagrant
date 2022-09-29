@@ -25,4 +25,8 @@ O projeto foi desenvolvido para comprovação dos conhecimentos aprendidos duran
 </br>
 
 ## 📌 Visualização
+
+#### Caso 6 - Aplicação Web para Avaliar a Normalidade de Dados.
+![](/Caso%206%20-%20Avaliar%20a%20Normalidade%20de%20Dados/img/normalidade1.PNG)
+</br>
 </br>
